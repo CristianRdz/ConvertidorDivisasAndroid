@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Divisas</string>
+    <string name="hintQuantity">1.00 or 2</string>
+    <string name="msjQuantity">Write the quantity</string>
+    <string name="msjCurrencyChoose">Select your currency</string>
+    <string name="msjCurrency">Select the currency to convert</string>
+    <string name="msjResult">Result</string>
+    <string name="msjError">Error</string>
+    <string name="btnConvert">Convert</string>
+    <string name="msjErrorQuantity">Error in the quantity</string>
+    <string name="msjErrorCurrency">Error in the currency</string>
+    <string name="msjErrorResult">Error in the result</string>
+    <string-array name="currencys">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </string-array>
+</resources>
